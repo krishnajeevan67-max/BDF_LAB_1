@@ -12,7 +12,7 @@ app.get("/", (request, response) => {
 // GET /about
 app.get("/about", (request, response) => {
     response.status(200).json({
-        name: "manoj sanakr",
+        name: "KOTHURI JEEVAN KRISHNA ",
         section: "CSE-GEN-AI 2A"
     });
 });
